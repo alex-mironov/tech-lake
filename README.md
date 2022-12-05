@@ -29,3 +29,9 @@
 |   | **Practices** |
 |   | [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) | A specification for adding human and machine readable meaning to commit messages |
 |   | [monorepo.tools](https://monorepo.tools/#what-is-a-monorepo) | Everything you need to know about monorepos, and the tools to build them. |
+|   | **System Design** |
+|   | [Design Patterns for Humans](htthttps://github.com/kamranahmedse/design-patterns-for-humans) | Ultra-simplified explanation to design patterns! |
+|   | [Dotfactory \| JavaScript Design Patterns](https://www.dofactory.com/javascript/design-patterns) | JavaScript Design Patterns |
+|   | [Sourcemaking \| Design Patterns](https://sourcemaking.com/) | Design Patterns |
+|   | [ByteByteGo \| Design patterns cheat sheet](https://sourcemaking.com/) | Design patterns cheat sheet |
+|   | [Patterns](https://www.patterns.dev/posts/) | Stay up to date on the latest design and performance patterns. |
