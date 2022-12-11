@@ -59,7 +59,6 @@ A curated list of useful resources for advanced full stack developers.
 | Name | Notes |
 | --------- | --------- |
 | [OneSignal](https://onesignal.com/) | Solution for Push Notifications, Email, SMS & In-App |
-| [Radar](https://radar.com/) | Location data infrastructure platform that helps growth and product teams to build location-aware app |
 | [Algolia](https://www.algolia.com/) | Search and Discovery Platform |
 | [Mocaroo](https://www.mockaroo.com/) | Generate realistic sample data to help test applications |
 
@@ -72,7 +71,7 @@ A curated list of useful resources for advanced full stack developers.
 ### Not Only Tech Blogs
 | Name | Notes |
 | --------- | --------- |
-| [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) | A specification for adding human and machine readable meaning to commit messages |
+| [levels.fyi](https://www.levels.fyi/) | Search companies to explore salaries, benefits, and more. |
 | [monorepo.tools](https://monorepo.tools/#what-is-a-monorepo) | Everything you need to know about monorepos, and the tools to build them. |
 
 <!-- TODO list of timeeless articles -->
