@@ -8,6 +8,12 @@ A curated list of useful resources for advanced full stack developers.
 | [Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components) | Absolutely Awesome React Components & Libraries |
 | [react-philosophies](https://github.com/mithi/react-philosophies) | A list of general practices when working with React |
 
+### ReactNative
+| Name | Notes |
+| --------- | --------- |
+| [React Native Flashlist](https://shopify.github.io/flash-list/) | A lib for rendering large lists - by Shopify |
+| [React Native Camera Kit](https://github.com/teslamotors/react-native-camera-kit) | High-performance camera library for React Native apps - by Tesla |
+
 ### TypeScript
 | Name | Notes |
 | --------- | --------- |
@@ -45,6 +51,9 @@ A curated list of useful resources for advanced full stack developers.
 | [explainshell.com](https://github.com/idank/explainshell) | match command-line arguments to their help text |
 | [tldr](https://github.com/tldr-pages/tldr) | Collaborative cheatsheets for console commands |
 | [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) | Upgrades your package.json dependencies to the latest versions, ignoring specified versions. |
+| [fd](https://github.com/sharkdp/fd) | Find entries in your filesystem |
+| [exa](https://github.com/ogham/exa) | A modern replacement for `ls` |
+| [ripgrep](https://github.com/BurntSushi/ripgrep/) | A search tool that recursively searches the current directory for a regex pattern, analogue to `grep` |
 
 ### Services & Frameworks
 | Name | Notes |
@@ -59,3 +68,11 @@ A curated list of useful resources for advanced full stack developers.
 | --------- | --------- |
 | [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) | A specification for adding human and machine readable meaning to commit messages |
 | [monorepo.tools](https://monorepo.tools/#what-is-a-monorepo) | Everything you need to know about monorepos, and the tools to build them. |
+
+### Not Only Tech Blogs
+| Name | Notes |
+| --------- | --------- |
+| [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) | A specification for adding human and machine readable meaning to commit messages |
+| [monorepo.tools](https://monorepo.tools/#what-is-a-monorepo) | Everything you need to know about monorepos, and the tools to build them. |
+
+<!-- TODO list of timeeless articles -->
