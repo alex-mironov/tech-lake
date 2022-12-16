@@ -1,6 +1,7 @@
 # List of Development Tools & Resources
 
-A curated list of useful resources for advanced full stack developers.
+A curated list of useful resources for advanced full stack developers. The list is my attempt to collect in one place a list of useful tools and resources I use in my work.
+
 # Core Full Stack Resources
 ### React
 | Name | Notes |
@@ -13,6 +14,7 @@ A curated list of useful resources for advanced full stack developers.
 | --------- | --------- |
 | [React Native Flashlist](https://shopify.github.io/flash-list/) | A lib for rendering large lists - by Shopify |
 | [React Native Camera Kit](https://github.com/teslamotors/react-native-camera-kit) | High-performance camera library for React Native apps - by Tesla |
+| [Lottie](https://airbnb.io/lottie/#/) | Library for Android, iOS, Web, and Windows that parses Adobe After Effects animations |
 
 ### TypeScript
 | Name | Notes |
@@ -55,20 +57,24 @@ A curated list of useful resources for advanced full stack developers.
 | [exa](https://github.com/ogham/exa) | A modern replacement for `ls` |
 | [ripgrep](https://github.com/BurntSushi/ripgrep/) | A search tool that recursively searches the current directory for a regex pattern, analogue to `grep` |
 
-### Services & Frameworks
+### Services
 | Name | Notes |
 | --------- | --------- |
+| [Built With](https://builtwith.com/) | Analyses websites and gives technologies overview |
+| [Similar Web](https://www.similarweb.com/) | Analyses websites and gives usage analytics |
+| [What Runs](https://www.whatruns.com/) | Discover what runs a website |
 | [OneSignal](https://onesignal.com/) | Solution for Push Notifications, Email, SMS & In-App |
 | [Algolia](https://www.algolia.com/) | Search and Discovery Platform |
 | [Mocaroo](https://www.mockaroo.com/) | Generate realistic sample data to help test applications |
 
-### Practices
+### Tools, Practices and More
 | Name | Notes |
 | --------- | --------- |
+| [Awesome Diagramming](https://github.com/shubhamgrg04/awesome-diagramming) | A curated list of awesome diagramming tools available for software engineering teams. |
 | [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) | A specification for adding human and machine readable meaning to commit messages |
 | [monorepo.tools](https://monorepo.tools/#what-is-a-monorepo) | Everything you need to know about monorepos, and the tools to build them. |
 
-### Not Only Tech Blogs
+### Not Only Tech
 | Name | Notes |
 | --------- | --------- |
 | [levels.fyi](https://www.levels.fyi/) | Search companies to explore salaries, benefits, and more. |
