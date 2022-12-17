@@ -1,4 +1,4 @@
-# List of Development Tools & Resources
+# List of Resources for Advanced Full Stack Developers
 
 A curated list of useful resources for advanced full stack developers. The list is my attempt to collect in one place a list of useful tools and resources I use in my work.
 
@@ -42,24 +42,16 @@ A curated list of useful resources for advanced full stack developers. The list 
 | [What happens when...](https://github.com/alex/what-happens-when) | Curated list of lists of technical interview questions |
 
 # Supplementary Resources
-### Teaching Platforms
+### Learning New Stuff
 | Name | Notes |
 | --------- | --------- |
 | [Code. Simply. Clearly. Calmly.](https://calmcode.io/) | Video tutorials for modern ideas and open source tools. |
-
-### CLI Tools
-| Name | Notes |
-| --------- | --------- |
-| [explainshell.com](https://github.com/idank/explainshell) | match command-line arguments to their help text |
-| [tldr](https://github.com/tldr-pages/tldr) | Collaborative cheatsheets for console commands |
-| [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) | Upgrades your package.json dependencies to the latest versions, ignoring specified versions. |
-| [fd](https://github.com/sharkdp/fd) | Find entries in your filesystem |
-| [exa](https://github.com/ogham/exa) | A modern replacement for `ls` |
-| [ripgrep](https://github.com/BurntSushi/ripgrep/) | A search tool that recursively searches the current directory for a regex pattern, analogue to `grep` |
+| [Udemy](https://udemy.com/) | A Platform with a ton of content |
 
 ### Services
 | Name | Notes |
 | --------- | --------- |
+| [explainshell.com](https://github.com/idank/explainshell) | Match command-line arguments to their help text |
 | [Built With](https://builtwith.com/) | Analyses websites and gives technologies overview |
 | [Similar Web](https://www.similarweb.com/) | Analyses websites and gives usage analytics |
 | [What Runs](https://www.whatruns.com/) | Discover what runs a website |
@@ -67,17 +59,12 @@ A curated list of useful resources for advanced full stack developers. The list 
 | [Algolia](https://www.algolia.com/) | Search and Discovery Platform |
 | [Mocaroo](https://www.mockaroo.com/) | Generate realistic sample data to help test applications |
 
-### Tools, Practices and More
+### More
 | Name | Notes |
 | --------- | --------- |
 | [Awesome Diagramming](https://github.com/shubhamgrg04/awesome-diagramming) | A curated list of awesome diagramming tools available for software engineering teams. |
 | [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) | A specification for adding human and machine readable meaning to commit messages |
 | [monorepo.tools](https://monorepo.tools/#what-is-a-monorepo) | Everything you need to know about monorepos, and the tools to build them. |
-
-### Not Only Tech
-| Name | Notes |
-| --------- | --------- |
 | [levels.fyi](https://www.levels.fyi/) | Search companies to explore salaries, benefits, and more. |
-| [monorepo.tools](https://monorepo.tools/#what-is-a-monorepo) | Everything you need to know about monorepos, and the tools to build them. |
 
 <!-- TODO list of timeeless articles -->
