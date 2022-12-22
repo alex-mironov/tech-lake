@@ -3,10 +3,10 @@
 - [Applications](#applications)
   - [Productivity](#productivity)
   - [Code](#code)
-  - [Design](#design)
+  <!-- - [Design](#design) -->
 - [Command Line Tools](#command-line-apps)
-- [iOS](#my-wonderful-world-of-ios-)
-- [Similar Setups](#similar-setups)
+<!-- - [iOS](#my-wonderful-world-of-ios-) -->
+- [Media](#media)
 - [Related](#related)
 
 ## Applications
