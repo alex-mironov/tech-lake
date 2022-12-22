@@ -30,6 +30,7 @@ A curated list of useful resources for advanced full stack developers. The list 
 | [Sourcemaking \| Design Patterns](https://sourcemaking.com/) | Design Patterns |
 | [ByteByteGo \| Design patterns cheat sheet](https://sourcemaking.com/) | Design patterns cheat sheet |
 | [Patterns](https://www.patterns.dev/posts/) | Stay up to date on the latest design and performance patterns. |
+| [AWS Guides](https://github.com/open-guides/og-aws) | A list of guides on AWS tools |
 
 ### Interview Preparation
 | Name | Notes |
@@ -68,3 +69,5 @@ A curated list of useful resources for advanced full stack developers. The list 
 | [levels.fyi](https://www.levels.fyi/) | Search companies to explore salaries, benefits, and more. |
 
 <!-- TODO list of timeeless articles -->
+
+## [A list of applications I adore and use day to day](/what-I-use.md)
