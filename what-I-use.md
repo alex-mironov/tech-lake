@@ -10,9 +10,9 @@
 - [Related](#related)
 
 ## Applications
-
 ### Productivity
 
+- [Bear](https://bear.app/) - Simple but beautiful note taking application.
 - [Craft](https://www.craft.do/) - Notes manager, task list. My organizer. I use it for task management, for quick notes and for keeping project documentation.
 - [1Password](https://1password.com) - Password manager
 - [shottr](https://shottr.cc/) - Screenshot tool
@@ -26,7 +26,7 @@
 - [iTerm](https://www.iterm2.com/) - Terminal Emulator
 - [Warp](https://www.warp.dev/) - The terminal for the 21st century
 
-### Design
+<!-- ### Design -->
 
 ## Command Line Tools
 
@@ -46,8 +46,11 @@
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes.
 - [mcfly](https://github.com/cantino/mcfly) - Fast visual command history search.
 
-<!-- ## Chrome Extensions
-## iOS -->
+<!-- ## Chrome Extensions -->
+## Media
+- [Audible](https://www.audible.com/) - Audiobooks
+- [YouTube Music](https://music.youtube.com/) - YouTube Music
+- [Snipd](https://www.snipd.com/) - AI powered podcast application
 
 ## Related
 
