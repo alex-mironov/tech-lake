@@ -25,6 +25,7 @@
 - [VS Code](https://github.com/Microsoft/vscode) - Code editor
 - [iTerm](https://www.iterm2.com/) - Terminal Emulator
 - [Warp](https://www.warp.dev/) - The terminal for the 21st century
+- [Insomnia](https://insomnia.rest/) - Open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC
 
 <!-- ### Design -->
 
@@ -41,10 +42,8 @@
 - [vtop](https://github.com/MrRio/vtop) - Graphical activity monitor.
 - [gotop](https://github.com/cjbassi/gotop) - Terminal based graphical activity monitor inspired by gtop and vtop.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
-- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
 - [npx](https://github.com/zkat/npx) - Execute npm package binaries.
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes.
-- [mcfly](https://github.com/cantino/mcfly) - Fast visual command history search.
 
 <!-- ## Chrome Extensions -->
 ## Media
