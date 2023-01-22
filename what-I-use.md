@@ -35,21 +35,22 @@
 - [tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands.
 - [fd](https://github.com/sharkdp/fd) - Find entries in your filesystem.
 - [exa](https://github.com/ogham/exa) - A modern replacement for `ls`.
-- [ripgrep](https://github.com/BurntSushi/ripgrep/) - A search tool that recursively searches the current directory for a regex pattern, analogue to `grep`.
-- [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) - Upgrades your package.json dependencies to the latest versions, ignoring specified versions.
 - [htop](https://github.com/hishamhm/htop) - Interactive text-mode process viewer for Unix systems.
 - [httpie](https://github.com/jakubroztocil/httpie) - HTTP client.
-- [vtop](https://github.com/MrRio/vtop) - Graphical activity monitor.
-- [gotop](https://github.com/cjbassi/gotop) - Terminal based graphical activity monitor inspired by gtop and vtop.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
 - [npx](https://github.com/zkat/npx) - Execute npm package binaries.
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes.
 
-<!-- ## Chrome Extensions -->
 ## Media
 - [Audible](https://www.audible.com/) - Audiobooks
 - [YouTube Music](https://music.youtube.com/) - YouTube Music
 - [Snipd](https://www.snipd.com/) - AI powered podcast application
+
+## Chrome Extensions
+- [Readwise Highlighter](https://chrome.google.com/webstore/detail/readwise-highlighter/jjhefcfhmnkfeepcpnilbbkaadhngkbi) - Save a page to Readwise Reader
+- [DeepL](https://www.deepl.com/en/chrome-extension) - Translate while you read and write within Chrome
+- [What Runs](https://www.whatruns.com/) - An extension that helps you identify technologies used on any website
+- [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) - Web design debug tool
 
 ## Related
 
