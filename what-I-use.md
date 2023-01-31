@@ -23,6 +23,9 @@
 ### Code
 
 - [VS Code](https://github.com/Microsoft/vscode) - Code editor
+  - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) - Subtly change the color of your Visual Studio Code workspace.
+  - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - It helps you to navigate in your code, moving between important positions easily and quickly.
+
 - [iTerm](https://www.iterm2.com/) - Terminal Emulator
 - [Warp](https://www.warp.dev/) - The terminal for the 21st century
 - [Insomnia](https://insomnia.rest/) - Open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC
