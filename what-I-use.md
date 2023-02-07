@@ -18,7 +18,7 @@
 - [shottr](https://shottr.cc/) - Screenshot tool
 - [Pastebot](https://tapbots.com/pastebot/) - Clipboard manager
 - [Notion](https://www.notion.so/) - Documents manager I use it primarily because of the database feature. It provides a really neat way of organizing data in tables and connect them across different tables.
-- [Milanote](https://milanote.com/) - A tool to organize your ideas and projects into visual boards.
+- [Freeform](https://apps.apple.com/us/app/freeform/id6443742539) - A tool to organize your ideas and projects into visual boards.
 
 ### Code
 
@@ -34,6 +34,7 @@
 
 ## Command Line Tools
 
+- [Oh My Zsh](https://ohmyz.sh/) - Framework for managing your Zsh configuration.
 - [explainshell.com](https://github.com/idank/explainshell) - Match command-line arguments to their help text.
 - [tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands.
 - [fd](https://github.com/sharkdp/fd) - Find entries in your filesystem.

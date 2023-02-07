@@ -3,24 +3,6 @@
 A curated list of useful resources for advanced full stack developers. The list is my attempt to collect in one place a list of useful tools and resources I use in my work.
 
 # Core Full Stack Resources
-### React
-| Name | Notes |
-| --------- | --------- |
-| [Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components) | Absolutely Awesome React Components & Libraries |
-| [react-philosophies](https://github.com/mithi/react-philosophies) | A list of general practices when working with React |
-
-### ReactNative
-| Name | Notes |
-| --------- | --------- |
-| [React Native Flashlist](https://shopify.github.io/flash-list/) | A lib for rendering large lists - by Shopify |
-| [React Native Camera Kit](https://github.com/teslamotors/react-native-camera-kit) | High-performance camera library for React Native apps - by Tesla |
-| [Lottie](https://airbnb.io/lottie/#/) | Library for Android, iOS, Web, and Windows that parses Adobe After Effects animations |
-
-### TypeScript
-| Name | Notes |
-| --------- | --------- |
-| [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) | The TypeScript Handbook |
-| [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react) | Cheatsheets for experienced React developers getting started with TypeScript |
 
 ### System Design
 | Name | Notes |
@@ -41,6 +23,26 @@ A curated list of useful resources for advanced full stack developers. The list 
 | [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook) | Front End interview preparation materials for busy engineers |
 | [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) | A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore |
 | [What happens when...](https://github.com/alex/what-happens-when) | Curated list of lists of technical interview questions |
+
+## Tools
+### React
+| Name | Notes |
+| --------- | --------- |
+| [Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components) | Absolutely Awesome React Components & Libraries |
+| [react-philosophies](https://github.com/mithi/react-philosophies) | A list of general practices when working with React |
+
+### ReactNative
+| Name | Notes |
+| --------- | --------- |
+| [React Native Flashlist](https://shopify.github.io/flash-list/) | A lib for rendering large lists - by Shopify |
+| [React Native Camera Kit](https://github.com/teslamotors/react-native-camera-kit) | High-performance camera library for React Native apps - by Tesla |
+| [Lottie](https://airbnb.io/lottie/#/) | Library for Android, iOS, Web, and Windows that parses Adobe After Effects animations |
+
+### TypeScript
+| Name | Notes |
+| --------- | --------- |
+| [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) | The TypeScript Handbook |
+| [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react) | Cheatsheets for experienced React developers getting started with TypeScript |
 
 # Supplementary Resources
 ### Learning New Stuff
