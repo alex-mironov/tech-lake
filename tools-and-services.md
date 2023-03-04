@@ -1,5 +1,10 @@
 # Tools & Services
 
+### Node.js
+| Name | Notes |
+| --------- | --------- |
+| [Dependency cruiser](https://github.com/sverweij/dependency-cruiser) | A tool helping to validate and visualise dependencies |
+
 ### React
 | Name | Notes |
 | --------- | --------- |
