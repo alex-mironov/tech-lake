@@ -1,4 +1,4 @@
-# A list of wonderful tools I use in my day-to-day work
+# A curated list of wonderful tools I use
 
 - [Applications](#applications)
   - [Productivity](#productivity)
@@ -12,7 +12,6 @@
 ## Applications
 ### Productivity
 
-- [Bear](https://bear.app/) - Simple but beautiful note taking application.
 - [Craft](https://www.craft.do/) - Notes manager, task list. My organizer. I use it for task management, for quick notes and for keeping project documentation.
 - [1Password](https://1password.com) - Password manager
 - [shottr](https://shottr.cc/) - Screenshot tool
@@ -25,12 +24,11 @@
 - [VS Code](https://github.com/Microsoft/vscode) - Code editor
   - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) - Subtly change the color of your Visual Studio Code workspace.
   - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - It helps you to navigate in your code, moving between important positions easily and quickly.
+  - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) - Classic beautiful theme.
 
-- [iTerm](https://www.iterm2.com/) - Terminal Emulator
+- [Intel One Mono Typeface](https://github.com/intel/intel-one-mono) - An expressive monospaced font family that’s built with clarity, legibility, and the needs of developers in mind.
 - [Warp](https://www.warp.dev/) - The terminal for the 21st century
 - [Insomnia](https://insomnia.rest/) - Open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC
-
-<!-- ### Design -->
 
 ## Command Line Tools
 

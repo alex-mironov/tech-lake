@@ -1,10 +1,10 @@
-# List of Resources for Advanced Full Stack Developers
+# A curated list of resources for developers
 
 A curated list of useful resources for advanced Full-Stack developers. The list is my attempt to collect in one place a list of useful tools and resources I use in my work.
 
-# Core Full Stack Resources
+## Core Full Stack Resources
 
-### Interview Preparation
+#### Interview Preparation
 | Name | Notes |
 | --------- | --------- |
 | [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) | Front-end related questions |
@@ -14,7 +14,7 @@ A curated list of useful resources for advanced Full-Stack developers. The list 
 | [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) | A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore |
 | [What happens when...](https://github.com/alex/what-happens-when) | Curated list of lists of technical interview questions |
 
-### System Design
+#### System Design
 | Name | Notes |
 | --------- | --------- |
 | [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) | Ultra-simplified explanation to design patterns! |
@@ -24,14 +24,14 @@ A curated list of useful resources for advanced Full-Stack developers. The list 
 | [Patterns](https://www.patterns.dev/posts/) | Stay up to date on the latest design and performance patterns. |
 | [AWS Guides](https://github.com/open-guides/og-aws) | A list of guides on AWS tools |
 
-### TypeScript
+#### TypeScript
 | Name | Notes |
 | --------- | --------- |
 | [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) | The TypeScript Handbook |
 | [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react) | Cheatsheets for experienced React developers getting started with TypeScript |
 
-# Supplementary Resources
-### Learning New Stuff
+## Supplementary Resources
+#### Learning New Stuff
 | Name | Notes |
 | --------- | --------- |
 | [Code. Simply. Clearly. Calmly.](https://calmcode.io/) | Video tutorials for modern ideas and open source tools. |

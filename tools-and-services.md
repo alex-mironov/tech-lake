@@ -16,6 +16,7 @@
 | --------- | --------- |
 | [Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components) | Absolutely Awesome React Components & Libraries |
 | [react-philosophies](https://github.com/mithi/react-philosophies) | A list of general practices when working with React |
+| [Framer Motion](https://www.framer.com/motion/) | Library providing wonderful animations for React |
 
 ### ReactNative
 | Name | Notes |
@@ -42,3 +43,4 @@
 | [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) | A specification for adding human and machine readable meaning to commit messages |
 | [monorepo.tools](https://monorepo.tools/#what-is-a-monorepo) | Everything you need to know about monorepos, and the tools to build them. |
 | [levels.fyi](https://www.levels.fyi/) | Search companies to explore salaries, benefits, and more. |
+| [Curated Lists](https://github.com/cuuupid/awesome-lists) | Curated Lists |
