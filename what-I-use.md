@@ -29,6 +29,10 @@
 - [Intel One Mono Typeface](https://github.com/intel/intel-one-mono) - An expressive monospaced font family that’s built with clarity, legibility, and the needs of developers in mind.
 - [Warp](https://www.warp.dev/) - The terminal for the 21st century
 - [Insomnia](https://insomnia.rest/) - Open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC
+- [HTTP Toolkit](https://insomnia.rest/) - a beautiful & open-source tool
+for debugging, testing and building with HTTP(S)
+- [Proxyman](https://proxyman.io/) - Modern. Native
+Web Debugging Proxy
 
 ## Command Line Tools
 
