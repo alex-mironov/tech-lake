@@ -1,10 +1,9 @@
-# Tools & Services
+# Frameworks
 
 - [Node.js](#nodejs)
 - [React](#react)
 - [ReactNative](#react-native)
 - [Services](#services)
-- [More](#more)
 
 ### Node.js
 | Name | Notes |
@@ -32,19 +31,4 @@
 ### Services
 | Name | Notes |
 | --------- | --------- |
-| [explainshell.com](https://github.com/idank/explainshell) | Match command-line arguments to their help text |
-| [Built With](https://builtwith.com/) | Analyses websites and gives technologies overview |
-| [Similar Web](https://www.similarweb.com/) | Analyses websites and gives usage analytics |
-| [What Runs](https://www.whatruns.com/) | Discover what runs a website |
-| [OneSignal](https://onesignal.com/) | Solution for Push Notifications, Email, SMS & In-App |
 | [Algolia](https://www.algolia.com/) | Search and Discovery Platform |
-| [Mocaroo](https://www.mockaroo.com/) | Generate realistic sample data to help test applications |
-
-### More
-| Name | Notes |
-| --------- | --------- |
-| [Awesome Diagramming](https://github.com/shubhamgrg04/awesome-diagramming) | A curated list of awesome diagramming tools available for software engineering teams. |
-| [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) | A specification for adding human and machine readable meaning to commit messages |
-| [monorepo.tools](https://monorepo.tools/#what-is-a-monorepo) | Everything you need to know about monorepos, and the tools to build them. |
-| [levels.fyi](https://www.levels.fyi/) | Search companies to explore salaries, benefits, and more. |
-| [Curated Lists](https://github.com/cuuupid/awesome-lists) | Curated Lists |

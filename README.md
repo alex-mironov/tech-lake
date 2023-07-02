@@ -1,10 +1,8 @@
 # A curated list of resources for developers
 
-A curated list of useful resources for advanced Full-Stack developers. The list is my attempt to collect in one place a list of useful tools and resources I use in my work.
+A curated list of useful resources for developers. This list is my attempt to collect in one place a list of useful tools and resources I use in my work.
 
-## Core Full Stack Resources
-
-#### Interview Preparation
+### Interview Preparation
 | Name | Notes |
 | --------- | --------- |
 | [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) | Front-end related questions |
@@ -17,6 +15,7 @@ A curated list of useful resources for advanced Full-Stack developers. The list 
 #### System Design
 | Name | Notes |
 | --------- | --------- |
+| [Book - Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) | The Big Ideas Behind Reliable, Scalable, and Maintainable Systems |
 | [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) | Ultra-simplified explanation to design patterns! |
 | [Dotfactory \| JavaScript Design Patterns](https://www.dofactory.com/javascript/design-patterns) | JavaScript Design Patterns |
 | [Sourcemaking \| Design Patterns](https://sourcemaking.com/) | Design Patterns |
@@ -38,7 +37,7 @@ A curated list of useful resources for advanced Full-Stack developers. The list 
 | [Udemy](https://udemy.com/) | A Platform with a ton of content |
 
 
-## Other
-- [Tools & Services](/tools-and-services.md)
-- [A list of applications I adore and use day to day](/what-I-use.md)
-<!-- TODO list of timeeless articles -->
+#### Other
+- [Frameworks](/frameworks.md)
+- [Applications and services](/what-I-use.md)
+- [Timeless articles](/timeless-articles.md)
