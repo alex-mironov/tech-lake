@@ -9,6 +9,7 @@
 - [Pastebot](https://tapbots.com/pastebot/) - Clipboard manager
 - [Notion](https://www.notion.so/) - Documents manager I use it primarily because of the database feature. It provides a really neat way of organizing data in tables and connect them across different tables.
 - [Freeform](https://apps.apple.com/us/app/freeform/id6443742539) - A tool to organize your ideas and projects into visual boards.
+- [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS using keyboard shortcuts or snap areas. [Magnet](https://magnet.crowdcafe.com/) is a popular alternative.
 
 ### Code
 - [VS Code](https://github.com/Microsoft/vscode) - Code editor
@@ -45,10 +46,6 @@ Web Debugging Proxy
 - [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) - Web design debug tool
 
 ## Services
-- [Awesome mac](https://github.com/jaywcjlove/awesome-mac)
-- [Interesting macOS apps](https://github.com/learn-anything/macos-apps)
-- [Open Source macOS apps](https://github.com/serhii-londar/open-source-mac-os-apps)
-- [My wonderful world of macOS](https://github.com/nikitavoloboev/my-mac-os/blob/master/readme.md)
 - [explainshell.com](https://github.com/idank/explainshell) - Match command-line arguments to their help text
 - [Built With](https://builtwith.com/) - Analyses websites and gives technologies overview
 - [Similar Web](https://www.similarweb.com/) - Analyses websites and gives usage analytics
@@ -57,5 +54,12 @@ Web Debugging Proxy
 - [Awesome Diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated list of awesome diagramming tools available for software engineering teams. |
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - A specification for adding human and machine readable meaning to commit messages
 - [monorepo.tools](https://monorepo.tools/#what-is-a-monorepo) - Everything you need to know about monorepos, and the tools to build them.
-- [levels.fyi](https://www.levels.fyi/) - Search companies to explore salaries, benefits, and more.
+- [levels.fyi](https://www.levels.fyi/) - Search companies to explore salaries, benefits, and more
+- [Mermaid](https://mermaid.js.org/#/) - Diagramming and charting tool
+
+## Curated Lists
+- [Awesome mac](https://github.com/jaywcjlove/awesome-mac)
+- [Interesting macOS apps](https://github.com/learn-anything/macos-apps)
+- [Open Source macOS apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+- [My wonderful world of macOS](https://github.com/nikitavoloboev/my-mac-os/blob/master/readme.md)
 - [Curated Lists](https://github.com/cuuupid/awesome-lists) - Curated Lists
