@@ -19,6 +19,7 @@
 | [react-philosophies](https://github.com/mithi/react-philosophies) | A list of general practices when working with React |
 | [Framer Motion](https://www.framer.com/motion/) | Library providing wonderful animations for React |
 | [React Flow](https://reactflow.dev/) | A highly customizable React component for building node-based editors and interactive diagrams |
+| [shiki]https://github.com/shikijs/shiki) | Code highlighting tool |
 
 ### ReactNative
 | Name | Notes |
