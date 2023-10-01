@@ -10,6 +10,7 @@ A curated list of useful resources for developers. This list is my attempt to co
 - [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) - A a series of books diving deep into the core mechanisms of the JavaScript language
 - [Frontend Interview Questions](https://dev.to/m_midas/52-frontend-interview-questions-javascript-59h6) - 52 Frontend Interview Questions - JavaScript
+- [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions) - JavaScript Interview Questions & Answers
 
 #### System Design
 - [Book - Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) - The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
@@ -39,6 +40,4 @@ A curated list of useful resources for developers. This list is my attempt to co
 - [How to JSON in PostgreSQL](https://ftisiot.net/postgresqljson/main/) - This series covers how to solve common problems on JSON datasets with PostgreSQL
 - [Code. Simply. Clearly. Calmly.](https://calmcode.io/) - Video tutorials for modern ideas and open source tools.
 - [Udemy](https://udemy.com/) - A Platform with a ton of content
-- [monorepo.tools](https://monorepo.tools/#what-is-a-monorepo) - Everything you need to know about monorepos, and the tools to build them.
 - [explainshell.com](https://github.com/idank/explainshell) - Match command-line arguments to their help text
-- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - A specification for adding human and machine readable meaning to commit messages
