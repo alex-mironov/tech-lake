@@ -41,3 +41,4 @@ A curated list of useful resources for developers. This list is my attempt to co
 - [Code. Simply. Clearly. Calmly.](https://calmcode.io/) - Video tutorials for modern ideas and open source tools.
 - [Udemy](https://udemy.com/) - A Platform with a ton of content
 - [explainshell.com](https://github.com/idank/explainshell) - Match command-line arguments to their help text
+- [React Ecosystem in 2024](https://dev.to/avinashvagh/react-ecosystem-in-2024-418k) - React Ecosystem in 2024
