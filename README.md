@@ -14,10 +14,12 @@ A curated list of useful resources for developers. This list is my attempt to co
 
 ### System Design
 - [Book - Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) - The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+- [The Amazon Builders' Library](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.sortDate&cards-body.sort-order=desc&awsf.filter-content-category=*all&awsf.filter-content-type=*all&awsf.filter-content-level=*all&awsm.page-cards-body=1) - How Amazon builds and operates software
 - [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/) - A series prepared by Microsoft
 - [ByteByteGo](https://bytebytego.com/) - Ace Your Next System Design Interview
 - [System Design Primer](https://github.com/donnemartin/system-design-primer#latency-numbers-every-programmer-should-know) - The System Design Primer
 - [System Design 101](https://github.com/ByteByteGoHq/system-design-101) - From the creators of ByteByteGo
+- [The Twelve-Factor App](https://12factor.net/) - A set of mental models and prescriptions for building an app
 
 ### Design Patterns
 - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Ultra-simplified explanation to design patterns!
