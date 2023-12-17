@@ -1,4 +1,11 @@
-## JavaScript Core
+## JavaScript
+### Other lists
+- [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations
+- [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
+- [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) - Front-end related questions
+- [Frontend Interview Questions](https://dev.to/m_midas/52-frontend-interview-questions-javascript-59h6) - 52 Frontend Interview Questions - JavaScript
+
+### Questions
 - What types exist in JavaScript (Symbol)
 - Arrow functions
 - call/apply/bind
@@ -86,8 +93,7 @@ console.log(false == '0')
 ## React
 ### Other lists
 - [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-%28written-by-a-Frontend-Engineer%29)
-- [GitHub - sudheerj/javascript-interview-questions: List of 1000 JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
-
+- [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 ### Questions
 - Is it safe to call react hooks based on a condition?
 - What are the rules/limitation that apply to hooks? - loops, conditions, or nested functions
@@ -166,6 +172,11 @@ Talk me through a full stack implementation of an autocomplete widget. A user ca
 
 ## [Node.js](https://github.com/learning-zone/nodejs-basics#q-why-should-you-separate-express-app-and-server)
 
+### Other lists
+- [Node.js](https://github.com/learning-zone/nodejs-basics#q-why-should-you-separate-express-app-and-server)
+- [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A list of back-end related questions you can be inspired from
+
+### Questions
 #### 1. What is the preferred method of resolving unhandled exceptions in Node.js?
 
 What will happen if we throw an unhandled exception?

@@ -3,15 +3,7 @@
 A curated list of useful resources for developers. This list is my attempt to collect in one place a list of useful tools and resources I use in my work.
 
 ## Interview Preparation
-- [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
-- [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) - Front-end related questions
-- [JavaScript Questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations
-- [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) - A a series of books diving deep into the core mechanisms of the JavaScript language
-- [Frontend Interview Questions](https://dev.to/m_midas/52-frontend-interview-questions-javascript-59h6) - 52 Frontend Interview Questions - JavaScript
-- [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions) - JavaScript Interview Questions & Answers
-- [Node.js](https://github.com/learning-zone/nodejs-basics#q-why-should-you-separate-express-app-and-server) - Node.js questions
-
 ### System Design
 - [Book - Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) - The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 - [The Amazon Builders' Library](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.sortDate&cards-body.sort-order=desc&awsf.filter-content-category=*all&awsf.filter-content-type=*all&awsf.filter-content-level=*all&awsm.page-cards-body=1) - How Amazon builds and operates software

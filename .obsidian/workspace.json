@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ddc384cc49697a7",
+            "id": "fe0a7882c4358e82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System design.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fe0a7882c4358e82",
+            "id": "df2a095a68747b7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe0a7882c4358e82",
+  "active": "df2a095a68747b7b",
   "lastOpenFiles": [
-    "System design.md",
+    "README.md",
     "Interview questions.md",
-    "System Design - What is Load Balancing?.md",
-    "README.md"
+    "System design.md",
+    "System Design - What is Load Balancing?.md"
   ]
 }
