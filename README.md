@@ -4,6 +4,7 @@ A curated list of useful resources for developers. This list is my attempt to co
 
 ## Interview Preparation
 - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) - A a series of books diving deep into the core mechanisms of the JavaScript language
+- [Exploring ES6](https://exploringjs.com/es6/index.html)
 ### System Design
 - [Book - Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) - The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 - [The Amazon Builders' Library](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.sortDate&cards-body.sort-order=desc&awsf.filter-content-category=*all&awsf.filter-content-type=*all&awsf.filter-content-level=*all&awsm.page-cards-body=1) - How Amazon builds and operates software
@@ -35,6 +36,6 @@ A curated list of useful resources for developers. This list is my attempt to co
 - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 - [How to JSON in PostgreSQL](https://ftisiot.net/postgresqljson/main/) - This series covers how to solve common problems on JSON datasets with PostgreSQL
 - [Code. Simply. Clearly. Calmly.](https://calmcode.io/) - Video tutorials for modern ideas and open source tools.
-- [Udemy](https://udemy.com/) - A Platform with a ton of content
 - [explainshell.com](https://github.com/idank/explainshell) - Match command-line arguments to their help text
 - [AWS Guides](https://github.com/open-guides/og-aws) - A list of guides on AWS tools
+- [Explain Shell](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
