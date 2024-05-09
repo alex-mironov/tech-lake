@@ -1,5 +1,7 @@
 # A curated list of resources for developers
 
+> For more access [almynotes.com](https://almynotes.com).
+
 A curated list of useful resources for developers. This list is my attempt to collect in one place a list of useful tools and resources I use in my work.
 
 ## Interview Preparation
