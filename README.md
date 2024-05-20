@@ -15,6 +15,7 @@ A curated list of useful resources for developers. This list is my attempt to co
 - [System Design Primer](https://github.com/donnemartin/system-design-primer#latency-numbers-every-programmer-should-know) - The System Design Primer
 - [System Design 101](https://github.com/ByteByteGoHq/system-design-101) - From the creators of ByteByteGo
 - [The Twelve-Factor App](https://12factor.net/) - A set of mental models and prescriptions for building an app
+- [Fusion Auth Articles](https://fusionauth.io/articles/) - These articles will make you understand modern authentication methods better
 
 ### Design Patterns
 - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Ultra-simplified explanation to design patterns!
