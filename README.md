@@ -23,6 +23,7 @@ A curated list of useful resources for developers. This list is my attempt to co
 - [Refactoring.Guru](https://refactoring.guru) - Refactoring.Guru makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
 - [Design patterns cheat sheet](https://sourcemaking.com/) - Design patterns cheat sheet
 - [Patterns](https://www.patterns.dev/posts/) - Stay up to date on the latest design and performance patterns.
+- [The frugal architect](https://thefrugalarchitect.com/)
 
 ## Other
 ### React
